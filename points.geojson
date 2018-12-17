@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FID": 0, "time": 1, "id": "route1", "name": "Adler" }, "geometry": { "type": "Point", "coordinates": [ -87.607029676437364, 41.866360991424976 ] } },
+{ "type": "Feature", "properties": { "FID": 1, "time": 2, "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.607397139072418, 41.86634900672103 ] } },
+{ "type": "Feature", "properties": { "FID": 2, "time": 3, "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.607407867908478, 41.866520787262722 ] } },
+{ "type": "Feature", "properties": { "FID": 3, "time": 4, "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.613418698310852, 41.866416920013599 ] } },
+{ "type": "Feature", "properties": { "FID": 4, "time": 5, "id": "route1", "name": "Shedd" }, "geometry": { "type": "Point", "coordinates": [ -87.613539397716522, 41.867028136400421 ] } }
+]
+}
